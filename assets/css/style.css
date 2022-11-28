@@ -42,3 +42,21 @@ margin-top: 10%;
 color: #f4f4f4;
 }
 
+.fa {
+  margin-top: 20px;
+margin-right: 8px;
+}
+
+a.icon-block {
+  display:inline-block;
+  width:10em;
+  text-align:center;
+  color: black;
+}
+
+a.icon-block i,
+a.icon-block span {
+  display:block;
+  width:100%;
+  clear:both;
+}
