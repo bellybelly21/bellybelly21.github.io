@@ -60,3 +60,18 @@ a.icon-block span {
   width:100%;
   clear:both;
 }
+
+a.links-rs i,
+a.links-rss span{
+  text-align:center;
+  color: rgb(255, 255, 255);
+}
+
+.hobbies ul {
+    display: flex;
+    justify-content:space-between;
+margin-top: 40px;
+  }
+  
+
+
